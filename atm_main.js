@@ -5,7 +5,7 @@ const prompt = require('prompt-sync')();
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'passwrd',
+  password: 'somy@B2002',
   database: 'atm_database',
 });
 
